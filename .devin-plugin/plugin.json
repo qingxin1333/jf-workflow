@@ -1,0 +1,5 @@
+{
+  "name": "jf-workflow",
+  "version": "1.0.0",
+  "description": "日常工作流 skills——daily-ship：检查代码→同步进度→提交代码→合并推送"
+}
